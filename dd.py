@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 
-API_KEY = "6wItY********************"
+API_KEY = ""
 HEADERS = {"Authorization": f"Bearer {API_KEY}"}
 
 LOCATIONS = [
